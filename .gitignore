@@ -1,0 +1,6 @@
+# 이미지 외 어떤 파일도 올리지 않는다 (안전장치)
+*
+!*.jpg
+!*.png
+!.gitignore
+!README.md
